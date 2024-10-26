@@ -2,7 +2,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" />
 
-<h2><strong><em><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Sobre mi</em></strong></h2>
+<h2><strong><em><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Sobre mi</em></strong></h2>
 
 Hola, soy Matias Iglesias, un apasionado de la tecnología, como el desarrollo de software, los videojuegos, inteligencia artificial, etc. Desde el año 2022, he estado explorando y creciendo en este apasionante mundo.
 
@@ -48,6 +48,3 @@ Siempre busco nuevas formas de aprender, ya sea a través de cursos, talleres o 
   ![mat1as75's GitHub stats](https://github-readme-stats.vercel.app/api?username=mat1as75&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
   
 </div>
-
-
-
