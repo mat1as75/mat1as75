@@ -39,8 +39,8 @@ Siempre busco nuevas formas de aprender, ya sea a través de cursos, talleres o 
 
 ## 📈 ***Estadísticas de GitHub***
 
-[![](https://github-readme-stats.vercel.app/api?username=mat1as75&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mat1as75)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=mat1as75&theme=material-palenight)](https://github.com/mat1as75)
+![mat1as75's GitHub stats](https://github-readme-stats.vercel.app/api?username=mat1as75&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+
 
 
 
