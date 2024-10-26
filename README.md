@@ -1,1 +1,46 @@
-<h1 align="center">Hi , I'm Matias Alfaro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">¡Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">! Soy Matias Alfaro👨🏻‍💻</h1>
+
+<img align="right" width=300px alt="Unicorn" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" />
+
+<h2><strong><em><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Sobre mi</em></strong></h2>
+
+Hola, soy Matias Iglesias, un apasionado de la tecnología, como el desarrollo de software, los videojuegos, inteligencia artificial, etc. Desde el año 2022, he estado explorando y creciendo en este apasionante mundo.
+
+Siempre busco nuevas formas de aprender, ya sea a través de cursos, talleres o lectura. Creo que estas experiencias enriquecen mi perspectiva y me inspiran a seguir aprendiendo y creciendo en mi campo.
+
+¡Gracias por visitar mi perfil de GitHub!
+
+## 🛠️ ***Habilidades***
+
+<h4> Lenguajes </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</span>
+
+<h4> Otras herramientas y tecnologías </h4>
+<span>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black">
+  <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white">
+</span>
+
+## ☎ ***Contacto***
+<a href="https://www.linkedin.com/in/matias-alfaro-iglesias-7541b121a/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+## 📈 ***Estadísticas de GitHub***
+
+[![](https://github-readme-stats.vercel.app/api?username=mat1as75&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mat1as75)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=mat1as75&theme=material-palenight)](https://github.com/mat1as75)
+
+
+
